@@ -14,6 +14,6 @@ Build a front-end UI that allows app administrators to:
 * [ ] - `displayName` - A feature name to display in the UI
 * [ ] - `featureName` - An identifier-friendly version of the feature name
 * [ ] - `description` - A brief description of the feature
-* [ ] - `status` - Can be `enabled` or `disabled`
+* [ ] - `isActive` - Can be `true` or `false`
 
 Make it easy to pair this service with [React Feature Toggles](https://github.com/paralleldrive/react-feature-toggles) and [Feature Toggles](https://github.com/paralleldrive/feature-toggles).
